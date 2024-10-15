@@ -1,0 +1,5 @@
+../Drivers/ILI9341/joystick.c:9:6:Joystick_Init	24	static
+../Drivers/ILI9341/joystick.c:13:13:UpdateDisplay	80	static
+../Drivers/ILI9341/joystick.c:29:10:Joystick_GetXValue	8	static
+../Drivers/ILI9341/joystick.c:35:10:Joystick_GetYValue	8	static
+../Drivers/ILI9341/joystick.c:41:6:Joystick_Update	88	static

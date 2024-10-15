@@ -1,0 +1,7 @@
+../Drivers/ILI9341/ILI9341_Touchscreen.c:86:10:TP_Read	3
+../Drivers/ILI9341/ILI9341_Touchscreen.c:110:6:TP_Write	3
+../Drivers/ILI9341/ILI9341_Touchscreen.c:137:9:TP_Read_Coordinates	11
+../Drivers/ILI9341/ILI9341_Touchscreen.c:209:9:TP_Touchpad_Pressed	2
+../Drivers/ILI9341/ILI9341_Touchscreen.c:221:9:TP_Touchpad2_Pressed	2
+../Drivers/ILI9341/ILI9341_Touchscreen.c:233:9:TP_Touchpad3_Pressed	2
+../Drivers/ILI9341/ILI9341_Touchscreen.c:245:9:TP_Touchpad4_Pressed	2

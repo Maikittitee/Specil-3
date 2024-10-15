@@ -1,0 +1,15 @@
+../Drivers/ILI9341/draw_poker.c:13:6:resetScreen	1
+../Drivers/ILI9341/draw_poker.c:21:6:resetTouchScreen	1
+../Drivers/ILI9341/draw_poker.c:28:6:setScreen	6
+../Drivers/ILI9341/draw_poker.c:50:6:setTouchScreen	5
+../Drivers/ILI9341/draw_poker.c:69:6:drawPlayerCard	1
+../Drivers/ILI9341/draw_poker.c:74:6:displayHand	3
+../Drivers/ILI9341/draw_poker.c:100:6:displayPokerHand	1
+../Drivers/ILI9341/draw_poker.c:112:6:displayWinnerPlayer	1
+../Drivers/ILI9341/draw_poker.c:125:6:disPlayCommunityCard	6
+../Drivers/ILI9341/draw_poker.c:156:6:Process_Touch	8
+../Drivers/ILI9341/draw_poker.c:180:9:Check_Touch	5
+../Drivers/ILI9341/draw_poker.c:200:6:displayMenu	2
+../Drivers/ILI9341/draw_poker.c:218:5:selectedChoice	4
+../Drivers/ILI9341/draw_poker.c:237:6:displayBet	1
+../Drivers/ILI9341/draw_poker.c:249:6:processBet	17

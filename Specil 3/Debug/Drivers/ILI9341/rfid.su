@@ -1,0 +1,15 @@
+../Drivers/ILI9341/rfid.c:29:6:debug_print	16	static
+../Drivers/ILI9341/rfid.c:35:6:print_card_data	40	static
+../Drivers/ILI9341/rfid.c:52:6:bytes_to_hex_string	32	static
+../Drivers/ILI9341/rfid.c:61:6:bytes_to_ascii_string	32	static
+../Drivers/ILI9341/rfid.c:78:6:bytes_to_decimal_string	32	static
+../Drivers/ILI9341/rfid.c:89:6:print_symbol	64	static
+../Drivers/ILI9341/rfid.c:107:15:word_len	24	static
+../Drivers/ILI9341/rfid.c:118:14:append_word	32	static
+../Drivers/ILI9341/rfid.c:136:15:count_word	24	static
+../Drivers/ILI9341/rfid.c:151:15:ft_split	40	static
+../Drivers/ILI9341/rfid.c:174:6:freeCard	16	static
+../Drivers/ILI9341/rfid.c:199:9:getRankIndex	24	static
+../Drivers/ILI9341/rfid.c:183:7:parseCardFromString	32	static
+../Drivers/ILI9341/rfid.c:234:6:display_status_led	16	static
+../Drivers/ILI9341/rfid.c:252:6:processRFID	280	static
